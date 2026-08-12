@@ -1,4 +1,4 @@
-# Hi there, I'm Alan Pichardo 👋
+# Hey I'm Alan Pichardo 👋
 
 AI Engineering Student passionate about building functional web, desktop, and mobile software through modern development tools and artificial intelligence workflows.
 

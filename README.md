@@ -1,11 +1,12 @@
-## Hey I'm Alan Pichardo 👋
-AI Engineering Student passionate about builing functional web, desktop, and mobile software through modern development tools and artificial intelligence workflows
+# Hi there, I'm Alan Pichardo 👋
+
+AI Engineering Student passionate about building functional web, desktop, and mobile software through modern development tools and artificial intelligence workflows.
 
 ---
 
-## About Me
+### About Me
 * Studying **Artificial Intelligence Engineering** at UAEMex.
-* Building web and desktop applications using **React, Vire, Tailwind CSS, and Electron**
+* Building web and desktop applications using **React, Vite, Tailwind CSS, and Electron**.
 * Exploring **Machine Learning, Computer Vision**, and software architecture.
 * Interested in automated systems, server setups, and full-stack development.
 
@@ -26,15 +27,17 @@ AI Engineering Student passionate about builing functional web, desktop, and mob
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### GitHub Activity 
+---
+
+### GitHub Activity
+
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=pichardoalan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pichardoalan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pichardoalan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Alan's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pichardoalan&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 ---
 
-### Connect with Me 
+### Connect with Me
 * **GitHub:** [@pichardoalan](https://github.com/pichardoalan)
 * **LinkedIn:** [Alan Pichardo](https://linkedin.com)
- 
